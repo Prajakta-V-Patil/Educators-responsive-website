@@ -1,1 +1,2 @@
-# Educators-responsive-website
+# Educators-spreading knowledge
+
