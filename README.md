@@ -1,2 +1,2 @@
-# (Educators-responsive website)
-[https://prajakta-v-patil.github.io/Educators-responsive-website/]
+# edu
+[Educators-responsive website](https://prajakta-v-patil.github.io/Educators-responsive-website/)
